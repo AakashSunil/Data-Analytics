@@ -1,5 +1,8 @@
 # Simple Linear Regression over datasets - Single Variable
 #
+#
+#    Done by Aakash Sunil
+#
 # 1. "Ground Water Survey  ->  X Axis - pH Level of Water  Y Axis - Bicarbonate (PPM)" 
 #
 # 2. "CricketChirps vs Temperature -> X Axis - CricketChirps per Minute  Y Axis - Temperature in Fahrenheit"
