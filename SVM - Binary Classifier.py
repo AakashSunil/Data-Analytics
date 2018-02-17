@@ -1,8 +1,8 @@
 ###
 #
-#Implementation of SVM Binary Classifier for a set of randomly generated points
+#          Implementation of SVM Binary Classifier for a set of randomly generated points
 #
-#Done by Aakash Sunil
+#          Done by Aakash Sunil
 #
 ###
 import numpy as np
