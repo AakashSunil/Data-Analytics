@@ -1,17 +1,16 @@
-# Simple Linear Regression over datasets - Single Variable
-#
+#    Simple Linear Regression over datasets - Single Variable
 #
 #    Done by Aakash Sunil
 #
-# 1. "Ground Water Survey  ->  X Axis - pH Level of Water  Y Axis - Bicarbonate (PPM)" 
+#    1. "Ground Water Survey  ->  X Axis - pH Level of Water  Y Axis - Bicarbonate (PPM)" 
 #
-# 2. "CricketChirps vs Temperature -> X Axis - CricketChirps per Minute  Y Axis - Temperature in Fahrenheit"
+#    2. "CricketChirps vs Temperature -> X Axis - CricketChirps per Minute  Y Axis - Temperature in Fahrenheit"
 #
-# 3. "Pizza Franchise -> X Axis - Annual Franchise Fee  Y Axis - Start up Cost"
+#    3. "Pizza Franchise -> X Axis - Annual Franchise Fee  Y Axis - Start up Cost"
 #
-# 4. "Iris Setosa -> X Axis - Sepal Width  Y Axis - Sepal Length
+#    4. "Iris Setosa -> X Axis - Sepal Width  Y Axis - Sepal Length
 #
-# 5. Random Generated Dataset
+#    5. Random Generated Dataset
 
 #-------------------------------------------------------------------------------------
 #Dataset 1
